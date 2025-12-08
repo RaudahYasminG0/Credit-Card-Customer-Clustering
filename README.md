@@ -30,4 +30,4 @@ Pada kelas ini tenure, frekuensi ambil uang tunai, dan frekuensi saldo atau inte
 
 **Cluster 1 adalah low value, low credit risk, massive, but loyal**
 
-Strategi marketing: karena kelas 0 merupakan low value dengan tingkat konmsi rendah namun termasuk customer loyal, cara untuk menaikkan valeu kelas ini dari sebelumnya dan mempertahankan keloyalan dengan menawarkan cashback kecil dan juga promo di hari-hari tertentu untuk pembelian di supermarket, e-wallet, pulsa, dll dan promo besar di event besar, dan penawaran kartu dengan biaya administrasi rendah.
+Strategi marketing: karena kelas 0 merupakan low value dengan tingkat konsumsi rendah namun termasuk customer loyal, cara untuk menaikkan valeu kelas ini dari sebelumnya dan mempertahankan keloyalan dengan menawarkan cashback kecil dan juga promo di hari-hari tertentu untuk pembelian di supermarket, e-wallet, pulsa, dll dan promo besar di event besar, dan penawaran kartu dengan biaya administrasi rendah.
