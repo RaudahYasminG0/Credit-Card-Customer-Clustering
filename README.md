@@ -1,5 +1,12 @@
 # Credit-Card-Customer-Clustering
 
+Metode: 
+
+1. K-Means
+2. Mini Batch K-Means
+3. Bisecting K-Means
+4. FUzzy C-Means
+
 _**KARAKTERISTIK CUSTOMER TIAP KLASTER BERDASARKAN RATA-RATA VARIABEL**_
 
 **1. Cluster 0 (369 customer):**
