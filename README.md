@@ -5,7 +5,7 @@ Metode:
 1. K-Means
 2. Mini Batch K-Means
 3. Bisecting K-Means
-4. FUzzy C-Means
+4. Fuzzy C-Means
 
 _**KARAKTERISTIK CUSTOMER TIAP KLASTER BERDASARKAN RATA-RATA VARIABEL**_
 
